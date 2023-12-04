@@ -32,7 +32,7 @@
             <div class="col-md-10">
             <input type="text" class="form-control" required="required" name="jabatan" value="{{ $p->pegawai_jabatan }}">
             </div>
-        <br>
+        <br> <br> <br>
         </div>
         <div class="form-group row">
             <label for="umur" class="col-md-2 col-form-label">Umur</label>
