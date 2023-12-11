@@ -106,3 +106,7 @@ Route::post('/blueray/update','App\Http\Controllers\BluerayController@update');
 Route::get('/blueray/hapus/{id}','App\Http\Controllers\BluerayController@hapus');
 Route::get('/blueray/cari','App\Http\Controllers\BluerayController@cari');
 Route::get('/blueray/view/{id}', 'App\Http\Controllers\BluerayController@view');
+
+//kategori
+Route::get('/combo','App\Http\Controllers\KategoriController@index');
+Route::get('/hasilcombo','App\Http\Controllers\KategoriController@view');

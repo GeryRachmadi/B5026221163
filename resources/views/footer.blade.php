@@ -1,3 +1,3 @@
 <footer>
-<center>Hak cipta oleh Mohammad Geresidi Rachmadi</center>
+<center>© Mohammad Geresidi Rachmadi. 2023</center>
 </footer>
